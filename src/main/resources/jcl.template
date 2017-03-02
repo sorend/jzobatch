@@ -1,0 +1,12 @@
+//************************************************************************
+//JAVA EXEC PROC=JVMPROC,LOGLVL='+I'
+//  JAVACLS='${mainClass}',
+//  ARGS=''
+//*
+//${datasets}
+//*
+//STDENV DD *
+. ${envScriptPath}
+//*
+//${mainArgs}
+//*
